@@ -1,0 +1,11 @@
+body {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial; }
+
+.nav {
+  border: 1px solid #000;
+  border-left: 0;
+  border-right: 2px; }
+
+/*# sourceMappingURL=style.css.map */

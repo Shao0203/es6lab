@@ -1,0 +1,74 @@
+// ul {
+// 	font-size: 15px;
+// 	li {
+// 		list-style: none;
+// 		a {
+// 			text-decoration: none;
+// 		}
+// 		$hover{
+// 			color: red;
+// 		}
+// 	}
+// }
+
+// $primary-color: #1269b5;
+// $primary-border: 1px solid #f60;
+
+// body {
+// 	background-color: $primary-color;
+// }
+
+// div.box {
+// 	border: $primary-border;
+// }
+
+// .nav {
+// 	background: red;
+// 	ul {
+// 		width: 70px;
+// 		a {
+// 			height: 30px;
+// 			&:hover {
+// 				text-decoration: none;
+// 			}
+// 		}
+// 	}
+// 	& &-text{
+// 		font-size: 15px;
+// 	}
+// }
+
+body {
+	font: {
+		size: 15px;
+		weight: bold;
+		family: Arial;
+	}
+}
+
+.nav {
+	border: 1px solid #000 {
+		left: 0;
+		right: 2px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
