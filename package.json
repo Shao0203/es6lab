@@ -1,0 +1,22 @@
+{
+  "name": "es6lab",
+  "version": "1.0.0",
+  "description": "ECMAScript 6 learn and play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shao0203/es6lab.git"
+  },
+  "author": "shao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shao0203/es6lab/issues"
+  },
+  "homepage": "https://github.com/Shao0203/es6lab#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
