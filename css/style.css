@@ -43,7 +43,7 @@ sass/style.scss:8
 /usr/bin/sass:23:in `load'
 /usr/bin/sass:23:in `<main>'
 */
-body:before {
+/*body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Invalid CSS after \"		$hover\": expected \":\", was \"{\"\A         on line 8 of sass/style.scss\A \A 3: 	li {\A 4: 		list-style: none;\A 5: 		a {\A 6: 			text-decoration: none;\A 7: 		}\A 8: 		$hover{\A 9: 			color: red;\A 10: 		}\A 11: 	}\A 12: }\A 13: "; }
+  content: "Error: Invalid CSS after \"		$hover\": expected \":\", was \"{\"\A         on line 8 of sass/style.scss\A \A 3: 	li {\A 4: 		list-style: none;\A 5: 		a {\A 6: 			text-decoration: none;\A 7: 		}\A 8: 		$hover{\A 9: 			color: red;\A 10: 		}\A 11: 	}\A 12: }\A 13: "; }*/
